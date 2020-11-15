@@ -118,6 +118,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rtrw-demo"
+    }
+  },
+  "defaultProject": "rtrw-demo",
+  "cli": {
+    "analytics": "bd7c96e2-601b-45db-a04c-27eab77a76f2"
+  }
 }

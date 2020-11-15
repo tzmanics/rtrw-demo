@@ -1,14 +1,13 @@
-# RtrwDemo
+# (σﾟ∀ﾟ)σ Render the Right Way - Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This is the base project we'll use in our [Render the Right Way Workshop](https://github.com/tzmanics/workshop-rendering-the-right-way). Here are two ways to make this project all yours:
+
+1. Push that 'Use this template' ԅ(´ڡ`ԅ) button at the top of this repo 
+2. Locally run `git clone https://github.com/tzmanics/rtrw-demo`, then create a new repo in your git account and push it on up there with there.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
