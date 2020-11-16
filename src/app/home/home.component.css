@@ -1,0 +1,40 @@
+h1 {
+  color: white;
+  font-weight: 200;
+  font-size: 100px;
+  padding: 20px 50px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-self: space-between;
+  margin: 30px auto;
+  width: 90%;
+}
+
+.content-block {
+  margin: 0 auto;
+  width: 30%;
+}
+
+.content-block-image img {
+  width: 100%;
+}
+
+.content-block-text h3 {
+  padding: 10px 0;
+}
+
+.tagline {
+  background-image: url("https://images.unsplash.com/photo-1511602030346-b432fc45eb32?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  background-position: center;
+  height: 350px;
+}
+
+.tagline-words {
+  float: right;
+  padding-top: 20px;
+  text-align: right;
+  width: 900px;
+}
