@@ -26,6 +26,21 @@ h1 {
   padding: 10px 0;
 }
 
+.marketing-copy {
+  background-color: #cae6e8;
+  padding: 50px 100px;
+}
+
+.marketing-copy h2 {
+  padding: 20px 0;
+  font-size: xx-large;
+  font-weight: 200;
+}
+
+.marketing-copy p {
+  padding-bottom: 20px;
+}
+
 .tagline {
   background-image: url("https://images.unsplash.com/photo-1511602030346-b432fc45eb32?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
   background-position: center;
