@@ -1,0 +1,29 @@
+footer {
+  height: 19px;
+  padding: 10px;
+  width: 98%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+.footer-info {
+  text-align: right;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+.logo,
+.nav {
+  float: left;
+  margin-right: 10px;
+}
