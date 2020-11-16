@@ -3,7 +3,7 @@
 This is the base project we'll use in our [Render the Right Way Workshop](https://github.com/tzmanics/workshop-rendering-the-right-way). Here are two ways to make this project all yours:
 
 1. Push that 'Use this template' ԅ(´ڡ`ԅ) button at the top of this repo 
-2. Locally run `git clone https://github.com/tzmanics/rtrw-demo`, then create a new repo in your git account and push it on up there with there.
+2. Locally run `git clone https://github.com/tzmanics/rtrw-demo`, then create a new repo in your git account and push it on up there.
 
 ## Development server
 
